@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  width: 50%;
+  background: #198754;
+  color: #fff;
+  padding: 15px;
+  margin: 100px auto 0;
+}
+ul{
+  list-style: none;
+}
